@@ -6,7 +6,9 @@ Each article that comes with code has a folder here, named after the article's a
 
 ## Articles
 
-None yet.
+| Folder | Article |
+|---|---|
+| [`simulator-app-location`](simulator-app-location) | Where did my simulator's location come from? ([English](https://blog.masonships.app/en/posts/simulator-app-location/) · [中文](https://blog.masonships.app/zh/posts/simulator-app-location/)) |
 
 ## License
 
